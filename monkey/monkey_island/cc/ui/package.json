@@ -101,7 +101,7 @@
     "react-fa": "^5.0.0",
     "react-filepond": "^7.1.0",
     "react-graph-vis": "^1.0.7",
-    "react-hot-loader": "^4.13.0",
+    "react-hot-loader": "^4.13.1",
     "react-json-tree": "^0.12.1",
     "react-jsonschema-form-bs4": "^1.7.1",
     "react-redux": "^5.1.2",
